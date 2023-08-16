@@ -1,16 +1,14 @@
-### Hi there 👋
+Header
 
-<!--
-**datfeelbruh/datfeelbruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
 
-Here are some ideas to get you started:
+My pet projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Hexlet](https://img.shields.io/badge/Education-Hexlet-informations?style=flat&logo=Hexlet&color=blue)](https://ru.hexlet.io/)
+[![Hexlet](https://img.shields.io/badge/Build_Tool-Gradle-informations?style=flat&logo=Gradle&color=blue)](https://gradle.org/)
+
+### Social
